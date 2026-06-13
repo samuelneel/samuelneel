@@ -13,7 +13,7 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/samuel-neel-a0661b40a/
+[linkedin]: [https://www.linkedin.com/in/samuel-neel-a0661b40a/](https://www.linkedin.com/in/samuel-neel/)
 
 <!--
 
