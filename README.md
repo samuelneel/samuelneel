@@ -6,6 +6,11 @@ Cybersecurity. I like hands-on learning and enjoy building labs, and figuring ou
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Active Directory & SOC Detection Home Lab](https://github.com/samuelneel/home-lab) — 🚧 In progress — virtualized Windows domain with a SIEM for log collection and threat detection
+- [Security Audit & Controls Assessment](https://github.com/samuelneel/security-audit) — Mock security audit identifying control gaps and remediations
+- [Incident Report Analysis](https://github.com/samuelneel/incident-report) — Incident documentation mapped to the NIST Cybersecurity Framework
+- [Linux File Permissions](https://github.com/samuelneel/linux-file-permissions) — Managing users, ownership, and permissions from the Linux command line
+
 <h2>📝 Certifications:</h2>
 Google Cybersecurity Professional Certificate (Expected 7/26)
 
