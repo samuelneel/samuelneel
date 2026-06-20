@@ -16,6 +16,8 @@ Google Cybersecurity Professional Certificate (Expected 7/26)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="SamuelNeel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/samuel-neel/">
+  <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 [linkedin]: [https://www.linkedin.com/in/samuel-neel](https://www.linkedin.com/in/samuel-neel/)
