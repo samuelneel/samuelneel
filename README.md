@@ -2,7 +2,7 @@
 
 Aspiring cybersecurity professional building toward a career in security engineering.
 Currently completing the Google Cybersecurity Certificate and pursuing a B.S. in
-Cybersecurity. I like hands-on learning and enjoy building labs, and figuring out how to defend them.
+Computer Science.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
