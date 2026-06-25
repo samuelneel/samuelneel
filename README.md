@@ -10,6 +10,7 @@ Computer Science.
 - [Security Audit & Controls Assessment](https://github.com/samuelneel/security-audit) — Mock security audit identifying control gaps and remediations
 - [Incident Report Analysis](https://github.com/samuelneel/incident-report) — Incident documentation mapped to the NIST Cybersecurity Framework
 - [Linux File Permissions](https://github.com/samuelneel/linux-file-permissions) — Managing users, ownership, and permissions from the Linux command line
+- [SQL Filtering](https://github.com/samuelneel/sql-filtering) — Using SQL to filter through a database
 
 <h2>📝 Certifications:</h2>
 Google Cybersecurity Professional Certificate (Expected 7/26)
